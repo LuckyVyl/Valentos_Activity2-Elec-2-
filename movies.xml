@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+<movies>
+    <movie id="1">
+        <movieTitle>Heneral Luna</movieTitle>
+        <director>Jerrold Tarog</director>
+        <actors>
+            <actor>John Arcilla</actor>
+            <actor>Mon Confiado</actor>
+            <actor>Arron Villaflor</actor>
+        </actors>
+        <year>2015</year>
+    </movie>
+    <movie id="2">
+        <movieTitle>Goyo: Ang Batang Heneral</movieTitle>
+        <director>Jerrold Tarog</director>
+        <actors>
+            <actor>Paulo Avelino</actor>
+            <actor>Mon Confiado</actor>
+            <actor>Gwen Zamora</actor>
+        </actors>
+        <year>2018</year>
+    </movie>
+    <movie id="3">
+        <movieTitle>One More Chance</movieTitle>
+        <director>Cathy Garcia-Molina</director>
+        <actors>
+            <actor>John Lloyd Cruz</actor>
+            <actor>Bea Alonzo</actor>
+            <actor>Dimpples Romana</actor>
+        </actors>
+        <year>2007</year>
+    </movie>
+    <movie id="4">
+        <movieTitle>Four Sisters and a Wedding</movieTitle>
+        <director>Cathy Garcia-Molina</director>
+        <actors>
+            <actor>Bea Alonzo</actor>
+            <actor>Toni Gonzaga</actor>
+            <actor>Angel Locsin</actor>
+        </actors>
+        <year>2013</year>
+    </movie>
+    <movie id="5">
+        <movieTitle>Barcelona: A Love Untold</movieTitle>
+        <director>Olivia Lamasan</director>
+        <actors>
+            <actor>Kathryn Bernardo</actor>
+            <actor>Daniel Padilla</actor>
+            <actor>Aiko Melendez</actor>
+        </actors>
+        <year>2016</year>
+    </movie>
+    <movie id="6">
+        <movieTitle>Die Beautiful</movieTitle>
+        <director>Jun Lana</director>
+        <actors>
+            <actor>Paolo Ballesteros</actor>
+            <actor>Christian Bables</actor>
+            <actor>Gladys Reyes</actor>
+        </actors>
+        <year>2016</year>
+    </movie>
+    <movie id="7">
+        <movieTitle>Kita Kita</movieTitle>
+        <director>Sigrid Andrea Bernardo</director>
+        <actors>
+            <actor>Alessandra de Rossi</actor>
+            <actor>Empoy Marquez</actor>
+        </actors>
+        <year>2017</year>
+    </movie>
+</movies>
